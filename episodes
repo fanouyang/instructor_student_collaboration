@@ -4,204 +4,348 @@ Episode 1: The superficial-level collaboration of Knowledge inquiry and construc
   2	Instructor:	I seem to have read this one too.
   3	Student H:	Eh, he took the leadership as theme. The system design was focused on this theme. 
   4	Instructor:	How did he support leadership in the system?
-  5	Student H:	He made the concept map as the overarching framework, and then the social network as a supplement. Many viewpoints from participants are shown in one diagram. He used clustering algorithms, and then he grouped participants into clusters. He used the concept map to show what some participants are doing and what others are doing. Then he used the social network to show the peripheral participants in one group, who would likely to play a role to bridge groups.
+  5	Student H:	He made the concept map as the overarching framework, and then the social network as a supplement. 
+                        Many viewpoints from participants are shown in one diagram. He used clustering algorithms, and then 
+			he grouped participants into clusters. He used the concept map to show what some participants are 
+			doing and what others are doing. Then he used the social network to show the peripheral participants 
+			in one group, who would likely to play a role to bridge groups.
   6	Instructor:	Eh.
-  7	Student H:	It used social network metrics to get a fixed value. If this value was reached, the results will be shown in the diagram.
+  7	Student H:	It used social network metrics to get a fixed value. If this value was reached, the results will be 
+                        shown in the diagram.
   8	Instructor:	Was the information offered to students in real time?
   9	Student H:	I guess it is not.
  10	Instructor:	Eh, okay.
- 11	Student H:	He found that if the value was too small, the graph would become very dense. If the value was too large, the graph would be lost. It is more appropriate to take a value of 15.
+ 11	Student H:	He found that if the value was too small, the graph would become very dense. If the value was too 
+                        large, the graph would be lost. It is more appropriate to take a value of 15.
  12	Instructor:	How did the concept map cluster? by keywords?
  13	Student H:	He has an algorithm to analyze the viewpoints from students.
  14	Instructor:	Oh, you can share that article in our forum so that we can read together and discuss.
- 15	Student H:	OK, I shared it in the forum. He analyzed why concept maps and social network maps have the same data structures, and why social network maps can be used as a supplement to concept maps. He worked from an algorithmic point of view, describing each step clearly.
-		[Episode 1: Audio transcript 00: 59: 01 - 01: 03: 40 (03192019, Week 3, Course I)]
+ 15	Student H:	OK, I shared it in the forum. He analyzed why concept maps and social network maps have the same data 
+                        structures, and why social network maps can be used as a supplement to concept maps. He worked from an 
+			algorithmic point of view, describing each step clearly.
+		                            [Episode 1: Audio transcript 00: 59: 01 - 01: 03: 40 (03192019, Week 3, Course I)]
     
 
 Episode 2: The medium-level collaboration of Knowledge inquiry and construction (KIC):
 
-  1	Instructor:	The first concept is behaviorism. Its main core is that all behaviors are formed under certain conditions. What is the meaning of conditioning?
+  1	Instructor:	The first concept is behaviorism. Its main core is that all behaviors are formed under certain 
+                        conditions. What is the meaning of conditioning?
   2	Student S:	Through training.
-  3	Instructor:	Yes, it is about train the person to reach the level you want. Most of the time, we will use the word “responsiveness”, a response to external stimuli. When these concepts are applied to the educational technology field, it usually views learning as a predefined procedure.
-  4	Student Y:	How about the process of students’ question-answering in a teaching machine? For example, the teacher sets some questions in the machine, and students have to get the correct answer before they can continue. Does this process belong to behaviorism?
+  3	Instructor:	Yes, it is about train the person to reach the level you want. Most of the time, we will use the word 
+                        “responsiveness”, a response to external stimuli. When these concepts are applied to the educational 
+			technology field, it usually views learning as a predefined procedure.
+  4	Student Y:	How about the process of students’ question-answering in a teaching machine? For example, the teacher 
+                        sets some questions in the machine, and students have to get the correct answer before they can 
+			continue. Does this process belong to behaviorism?
   5	Student S:	Isn’t this cognitivism?
   6	Student Y:	So what is behaviorism?
   7	Student S:	It is about memorization, remembering contents and reciting them.
-  8	Instructor:	Don’t you think this also involves cognition. Does behaviorism mean a person completes a task and then gets a feedback?
+  8	Instructor:	Don’t you think this also involves cognition. Does behaviorism mean a person completes a task and then 
+                        gets a feedback?
   9	Student Y:	But people also learn knowledge when he completes a task.
  10	Student S:	He does not construct new knowledge.
  11	Instructor:	Yes, it is not connected with his previous knowledge.
  12	Student Y:	Does behaviorism only focus on behaviors?
  13	Student S:	Isn’t there any information processing involved?
- 14	Instructor:	Can we say that whether it has information processing is a distinction between behaviorism and cognitivism? Is it the most common way to differentiate them?
+ 14	Instructor:	Can we say that whether it has information processing is a distinction between behaviorism and 
+                        cognitivism? Is it the most common way to differentiate them?
  15	Student Y:	En.
  16	Student S:	Cognitivism is also developed based on behaviorism.
  17	Instructor:	Yep.
- 18	Student S:	I’m thinking that we don’t merely use behaviorism to explain related phenomena now. There must be behaviors involved, but there must be information processing as well.
+ 18	Student S:	I’m thinking that we don’t merely use behaviorism to explain related phenomena now. There must be 
+                        behaviors involved, but there must be information processing as well.
  19	Instructor:	Information processing and application, right?
- 20	Student Y:	I think as long as people is involved, there is information processing. When a student connects pictures in the teaching machine, he does not do it without thinking. He must have a thinking process.
+ 20	Student Y:	I think as long as people is involved, there is information processing. When a student connects 
+                        pictures in the teaching machine, he does not do it without thinking. He must have a thinking process.
  21	Instructor:	Yes, it has information processing.
  22	Student S:	I think the teaching machine is just a representative of behaviorism.
- 23	Instructor:	It may not completely belong to behaviorism. Because students also need to deal with information when they answer questions, and their minds also need to connect with previous knowledge to integrate information.
- 24	Student S:	Yes. At that time, people think it belongs to behaviorism, but in fact it developed to cognitivism later.
- 25	Instructor:	Right, there is behavioral cognitivism developed on this basis. It becomes more and more clear when we discussed in this way. Basically, I personally think that there is few and few empirical research in the field of educational technology underpinned upon behaviorism.
-		[Episode 2: Audio transcript 00:18:25 - 00:26:57 (05072019, Week 2, Course II)]
+ 23	Instructor:	It may not completely belong to behaviorism. Because students also need to deal with information when 
+                        they answer questions, and their minds also need to connect with previous knowledge to integrate 
+			information.
+ 24	Student S:	Yes. At that time, people think it belongs to behaviorism, but in fact it developed to cognitivism 
+                        later.
+ 25	Instructor:	Right, there is behavioral cognitivism developed on this basis. It becomes more and more clear when 
+                        we discussed in this way. Basically, I personally think that there is few and few empirical research 
+			in the field of educational technology underpinned upon behaviorism.
+		                                [Episode 2: Audio transcript 00:18:25 - 00:26:57 (05072019, Week 2, Course II)]
 
 
 Episode 3: The high-level collaboration of Knowledge inquiry and construction (KIC):
 
-  1	Instructor:	In previous classes, we talked about social network analysis. We focused on the one-mode network, network that only included one type of data. For example, a student-student network shows how one student interacts with other students. A citation network shows how one article is cited by other articles. But sometimes we may need to show different types of data, such as students’ contribution to a topic, or students’ use of online resources, right?
-  2	Student J:	I know that some networks can show the relationship from multiple dimensions, such as interactions between students and resource videos, keywords, etc. It is not one-dimensional as we traditionally would have, for example, only show the interaction between students.
-  3	Student L:	Yep, for example, in a MOOC, a student may watch a video, read some readings, and post comments in forum to interact with peers. This can be shown in network visualization, right?
-  4	Instructor: 
-	Yep. I used to do one-mode and two-mode network analysis in my dissertation. But I am recently thinking about three-mode networks. For example, one type of data is student, another type of data is content student posted to the discussion, and the third type of data is the students’ knowledge map.
+  1	Instructor:	In previous classes, we talked about social network analysis. We focused on the one-mode network, 
+                        network that only included one type of data. For example, a student-student network shows how one 
+			student interacts with other students. A citation network shows how one article is cited by other 
+			articles. But sometimes we may need to show different types of data, such as students’ contribution 
+			to a topic, or students’ use of online resources, right?
+  2	Student J:	I know that some networks can show the relationship from multiple dimensions, such as interactions 
+                        between students and resource videos, keywords, etc. It is not one-dimensional as we traditionally 
+			would have, for example, only show the interaction between students.
+  3	Student L:	Yep, for example, in a MOOC, a student may watch a video, read some readings, and post comments in 
+                        forum to interact with peers. This can be shown in network visualization, right?
+  4	Instructor:     Yep. I used to do one-mode and two-mode network analysis in my dissertation. But I am recently 
+                        thinking about three-mode networks. For example, one type of data is student, another type of data 
+			is content student posted to the discussion, and the third type of data is the students’ knowledge map.
   5	Student L:	This sounds interesting. Teacher, have you heard about knowledge graph? It is a hot topic now.
   6	Instructor: 	Nope, what is that?
-  7	Student L:	It is about massive networks. In the network, it has various types of nodes, including people, people’s attributes, such as demographical information. It is very similar to three-mode networks you mentioned. But it may include more dimensions.
-  8	Instructor:	Sounds interesting. But how to analyze it is another story. I analyzed two-mode networks in my dissertation. It needs to be projected into a traditional one-mode network.
+  7	Student L:	It is about massive networks. In the network, it has various types of nodes, including people, people’
+                        s attributes, such as demographical information. It is very similar to three-mode networks you 
+			mentioned. But it may include more dimensions.
+  8	Instructor:	Sounds interesting. But how to analyze it is another story. I analyzed two-mode networks in my 
+                        dissertation. It needs to be projected into a traditional one-mode network.
   9	Student L:	Em, so you use those network metrics we mentioned before to analyze the two-mode network?
- 10	Instructor:	Yep, after the two-mode network is transferred to a one-mode network, we can use network metrics to analyze it. I have an idea about designing a visualized learning analytics tool to foster students’ participation. As we just mentioned, I want to visualize it from a two-dimensional or even three-dimensional perspective. Then, it can be shown to students and students may become aware of their online learning processes from different dimensions.
- 11	Student L:	It is of great interest to me. But just as you said, there are a lot of data for an online course. What data will this visualization show?
- 12	Student J:	If the course is large, for example a MOOC, the number of people is increasing. In this case, we should consider how many layers of data we will demonstrate. If there are too many data, the network may be complicated and users may feel confused.
- 13	Instructor:	Eh, this is a very good point. Initially, I was thinking about show network visualizations for the discussions, not for the whole MOOC. I already developed a prototype. But if it is a visualization for the whole MOOC, it may include much more information, such as people watching videos, reading articles, participating in discussions, etc. Another issue is how to realize the real-time function. I haven’t figured out how to realize this function yet.
- 14	Student L:	For the real-time function, it needs to capture data and feed it to the backstage programming. In the interface, we only display visualized results. I know that Moodle API can capture data.
- 15	Student J:	Yes, it is the method we could use. But first we need to design a data structure. We need to determine what kind of data we will collect and what data structures we use to store it.
- 16	Instructor:	Yes, these are all very important issues that we need to consider in practice. Currently, there is no real-time function in the prototype. I did post-analysis and offered results to students. For example, data are manually saved and programming are run at intervals. Then, visualizations are given to students in some way. The questions you have proposed are all very important. If you are interested in, we can try to design it together.
-		[Episode 3: Audio transcript 02:30:35 - 02:34:02 (10152019, Week 5, Course III)]
+ 10	Instructor:	Yep, after the two-mode network is transferred to a one-mode network, we can use network metrics to 
+                        analyze it. I have an idea about designing a visualized learning analytics tool to foster students’ 
+			participation. As we just mentioned, I want to visualize it from a two-dimensional or even three-
+			dimensional perspective. Then, it can be shown to students and students may become aware of their 
+			online learning processes from different dimensions.
+ 11	Student L:	It is of great interest to me. But just as you said, there are a lot of data for an online course. 
+                        What data will this visualization show?
+ 12	Student J:	If the course is large, for example a MOOC, the number of people is increasing. In this case, we 
+                        should consider how many layers of data we will demonstrate. If there are too many data, the network 
+			may be complicated and users may feel confused.
+ 13	Instructor:	Eh, this is a very good point. Initially, I was thinking about show network visualizations for the 
+                        discussions, not for the whole MOOC. I already developed a prototype. But if it is a visualization 
+			for the whole MOOC, it may include much more information, such as people watching videos, reading 
+			articles, participating in discussions, etc. Another issue is how to realize the real-time function. 
+			I haven’t figured out how to realize this function yet.
+ 14	Student L:	For the real-time function, it needs to capture data and feed it to the backstage programming. In the 
+                        interface, we only display visualized results. I know that Moodle API can capture data.
+ 15	Student J:	Yes, it is the method we could use. But first we need to design a data structure. We need to determine 
+                        what kind of data we will collect and what data structures we use to store it.
+ 16	Instructor:	Yes, these are all very important issues that we need to consider in practice. Currently, there is no 
+                        real-time function in the prototype. I did post-analysis and offered results to students. For example, 
+			data are manually saved and programming are run at intervals. Then, visualizations are given to 
+			students in some way. The questions you have proposed are all very important. If you are interested 
+			in, we can try to design it together.
+		                               [Episode 3: Audio transcript 02:30:35 - 02:34:02 (10152019, Week 5, Course III)]
     
 
 Episode 4: The superficial-level collaboration of course design and development (CDD):
 
-  1	Instructor:	Regarding course content, one of the next week’s topics - “embodiment” is very light. Do you guys think it could be combined with other content? Are there any parts we learned before you want to strengthen?
+  1	Instructor:	Regarding course content, one of the next week’s topics - “embodiment” is very light. Do you guys 
+                        think it could be combined with other content? Are there any parts we learned before you want to 
+			strengthen?
   2	Students:	[students kept silence for about 8 seconds]
-  3	Instructor:	We have learned the concepts of educational research, theories and methodologies, online and distance learning. Is there any part that you want to strengthen? Can we add a discussion on app design and development? I want to find some learning interests in common among us. I saw that both of you wrote something about tool design and development in the research projects you want to complete in this course. Why don’t we add a session of Moodle, R plug-in and app design and development? We could share our learning experience. What are the progresses of the tools or platforms you are designing and developing now?
-  4	Student H:	I feel that the content of Moodle plug-in design and development taught by the * teacher in * class is still very basic. You have to learn in depth by yourself if you want exactly what you need.
+  3	Instructor:	We have learned the concepts of educational research, theories and methodologies, online and distance 
+                        learning. Is there any part that you want to strengthen? Can we add a discussion on app design and 
+			development? I want to find some learning interests in common among us. I saw that both of you wrote 
+			something about tool design and development in the research projects you want to complete in this 
+			course. Why don’t we add a session of Moodle, R plug-in and app design and development? We could 
+			share our learning experience. What are the progresses of the tools or platforms you are designing 
+			and developing now?
+  4	Student H:	I feel that the content of Moodle plug-in design and development taught by the * teacher in * class 
+                        is still very basic. You have to learn in depth by yourself if you want exactly what you need.
   5	Instructor:	Of course, it is impossible to cover everything [in one course].
   6	Student H:	Currently, * teacher only talked about the general content.
   7	Instructor:	Have you two started to design plug-in apps, so that we can share something in the following class?
   8	Student H:	Now we have been learning the basics first, and I feel I haven’t learned the basics very well.
   9	Instructor:	You mean your foundation is not very good? What does the foundation mean?
- 10	Student H:	She talks about PHP and HTML. We have to learn them step by step. I haven’t reached the level to know what functions can be realized, and how to realize them. However, I haven’t reached this point yet and I am still at the very beginning.
+ 10	Student H:	She talks about PHP and HTML. We have to learn them step by step. I haven’t reached the level to know 
+                        what functions can be realized, and how to realize them. However, I haven’t reached this point yet and
+			I am still at the very beginning.
  11	Instructor:	What is the next plan for that course?
  12	Student H:	Teacher * said that if the time is not enough, we can have a design plan first.
- 13	Instructor:	Yep, design is very important before you implement it. How about X? You are doing game development. Do you have anything to show, such as your design? It seems that there is a software that you can draw the design interface before you develop it. In fact, design is very important. If you conduct something recklessly before you have a good design, you will waste a lot of time and energy.
- 14	Student X:	Eh, it is a very slow progress… I have seen a software before, but I can’t remember the name of it. I need to search it online.
-		[Episode 4: Audio transcript 01:36:30 - 01:43:05 (03192019, Week 3, Course I)]
+ 13	Instructor:	Yep, design is very important before you implement it. How about X? You are doing game development. 
+                        Do you have anything to show, such as your design? It seems that there is a software that you can draw 
+			the design interface before you develop it. In fact, design is very important. If you conduct something
+			recklessly before you have a good design, you will waste a lot of time and energy.
+ 14	Student X:	Eh, it is a very slow progress… I have seen a software before, but I can’t remember the name of it. 
+                        I need to search it online.
+		                                 [Episode 4: Audio transcript 01:36:30 - 01:43:05 (03192019, Week 3, Course I)]
     
 
 Episode 5: The medium-level collaboration of course design and development (CDD):
 
-  1	Instructor:	Let’s look at the syllabus document. You guys added the topics you want to discuss in this course. We have finished the fourth weekly class and have learned the basic concepts of educational technology, core learning theories, research methods and writing, as well as learning analytics and data mining. Let’s take a look at the syllabus to see whether there is any content need to be modified [for the following weeks’ classes]. The next week is week 5, the content will focus on AI+Ed and programming education.
+  1	Instructor:	Let’s look at the syllabus document. You guys added the topics you want to discuss in this course. We 
+                        have finished the fourth weekly class and have learned the basic concepts of educational technology, 
+			core learning theories, research methods and writing, as well as learning analytics and data mining. Let’s take a look at the syllabus to see whether there is any content need to be modified [for the following weeks’ classes]. The next week is week 5, the content will focus on AI+Ed and programming education.
   2	Student S:	How will the content [for the next week] to be proceeded?
-  3	Instructor:	This is the content you proposed that you are interested to explore. You can design and lead the class session. You can send me some materials, and I will find some relevant materials as well. Then we can put it together. It is beneficial for you when the process is related to the research you are working on.
+  3	Instructor:	This is the content you proposed that you are interested to explore. You can design and lead the class 
+                        session. You can send me some materials, and I will find some relevant materials as well. Then we can 
+			put it together. It is beneficial for you when the process is related to the research you are working 
+			on.
   4	Student S:	Eh, Okay.
-  5	Instructor:	So we will work together before next week’s class. You can send me some materials or propose some ideas, if you need my help.
+  5	Instructor:	So we will work together before next week’s class. You can send me some materials or propose some 
+                        ideas, if you need my help.
   6	Student S:	My current research is about computational thinking. Can I add it to next week’s class?
-  7	Instructor:	Yes, sure. The best scenario is that this is beneficial for your final research proposal. You will be the driver of the next week’s course design. I will help you finish the class design if you need. In addition, we can present the next week’s content in a collaborative way if necessary. You can also design some related learning activities in the next week’s class. Before Sunday, you can think about what you want to present, what kind of form to present, etc.
+  7	Instructor:	Yes, sure. The best scenario is that this is beneficial for your final research proposal. You will be
+                        the driver of the next week’s course design. I will help you finish the class design if you need. In 
+			addition, we can present the next week’s content in a collaborative way if necessary. You can also 
+			design some related learning activities in the next week’s class. Before Sunday, you can think about
+			what you want to present, what kind of form to present, etc.
   8	Student S:	Eh, Okay.
   9	Instructor:	Let’s move on to Y. Your topic is about informal game learning.
  10	Student Y:	Yes, Game learning, location-based learning.
  11	Instructor:	Yes, location-based learning. You have read a lot of relevant literature, right?
  12	Student Y:	Eh.
- 13	Instructor:	Can you take the sixth week? After S, we can also expand your content, such as discussing what learning theories or educational paradigms can support your research.
+ 13	Instructor:	Can you take the sixth week? After S, we can also expand your content, such as discussing what 
+                        learning theories or educational paradigms can support your research.
  14	Student Y:	I want to promote the learning of content through a game.
  15	Instructor:	En, okay, go on.
- 16	Student Y:	It is about designing a location-based game to help students learn shapes, which may be carried out under a research project of field learning. For example, when we learn trapezoid, in the classroom, we only talk about the content of trapezoid orally. But in the field learning, we can look for trapezoid in the real world.
+ 16	Student Y:	It is about designing a location-based game to help students learn shapes, which may be carried out 
+                        under a research project of field learning. For example, when we learn trapezoid, in the classroom, 
+			we only talk about the content of trapezoid orally. But in the field learning, we can look for 
+			trapezoid in the real world.
  17	Instructor:	Understood, quite interesting.
  18	Student Y:	It is about game development and application.
- 19	Instructor:	Okay, let’s put it in the sixth week. You will mainly introduce the topic to us, and then you can write your research design in details …
+ 19	Instructor:	Okay, let’s put it in the sixth week. You will mainly introduce the topic to us, and then you can 
+                        write your research design in details.
  20	Student Y:	Em, okay.
- 21	Instructor:	So this is how we will work for the following two weeks’ classes. Let me know if you have any questions, okay?
-		[Episode 5: Audio transcript 02:19:03 - 02:24:01 (05212019, Week 4, Course II)]
+ 21	Instructor:	So this is how we will work for the following two weeks’ classes. Let me know if you have any 
+                        questions, okay?
+		                                [Episode 5: Audio transcript 02:19:03 - 02:24:01 (05212019, Week 4, Course II)]
     
 
 Episode 6: The high-level collaboration of course design and development (CDD):
 
-  1	Instructor:	The main teaching philosophy of this course is that we are all equal knowledge creators. We work together to build new knowledge and create new products. This course will introduce online learning analytics. As you can see from the syllabus, learning analytics approaches include social network analysis, content analysis, discourse analysis, time series analysis, sequential analysis, etc. Please write down what you aim to learn in this online document. You can think about why you take this course and what you want to achieve at the end.
+  1	Instructor:	The main teaching philosophy of this course is that we are all equal knowledge creators. We work 
+                        together to build new knowledge and create new products. This course will introduce online learning 
+			analytics. As you can see from the syllabus, learning analytics approaches include social network 
+			analysis, content analysis, discourse analysis, time series analysis, sequential analysis, etc. Please
+			write down what you aim to learn in this online document. You can think about why you take this course
+			and what you want to achieve at the end.
   2	Students:	[students think silently and added content through shimo document for about 3 minutes]
   3	Instructor:	Let’s share it. Who will come first?
-  4	Student L:	Let me do it first, teacher. I want to systematically master the research methods and techniques for learning and instruction process. I have some programming foundations. I can also collect some data in my previous work place. But I haven’t learned analysis techniques and methods in a systematic way, so I want to learn them systematically through this course and use them in my projects.
-  5	Instructor:	Okay, as I said just now, this course will cover the main analytics methods. I will also give you time to practice individually or in groups. Who want to share next?
-  6	Student S:	I want to learn how to analyze students’ learning processes with learning analytics techniques in order to understand data in a micro level. I collected various data in previous research projects, but I don’t know how to analyze them from a process perspective. So I want to learn specific methods through this course.
-  7	Instructor:	Eh, I also put an emphasis on the process-oriented analytics and we can discuss it together. Who is the next?
-  8	Student Z:	Let me share it. This is my first semester of postgraduate study. I want to learn more about the data mining and analysis methods, which can help me prepare for future research.
-  9	Instructor:	Okay, thanks for Z’s sharing. I hope you can learn what you want to learn. Data mining is also an area closely related to learning analytics. For example, text mining is a classic method. I hope this lesson will inspire you in some way. J, you are the next.
- 10	Student J:	You did not mention statistical analysis just now. I especially want to learn statistical analysis in this course to deepen the understanding and application of data analysis. Can you add an item related to statistical analysis?
- 11	Instructor:	Thanks for J’s sharing. Statistical analysis is also one of the traditional analysis techniques. I also used some basic statistical analysis such as ANOVA in my previous research. It can also be conducted in R programming. We sure can add this part to the course content. Now everyone can look at the document. According to your sharing, we will learn basic approaches as I mentioned, and we will add statistical analysis, data mining, process-oriented analysis, etc. Okay? Then, I will leave you some time to think about and adjust the general content.
-		[Episode 6: Audio transcript 00:11:20 - 00:15:05 (09102019, Week 1, Course III)]
+  4	Student L:	Let me do it first, teacher. I want to systematically master the research methods and techniques for 
+                        learning and instruction process. I have some programming foundations. I can also collect some data
+			in my previous work place. But I haven’t learned analysis techniques and methods in a systematic way, 
+			so I want to learn them systematically through this course and use them in my projects.
+  5	Instructor:	Okay, as I said just now, this course will cover the main analytics methods. I will also give you time
+                        to practice individually or in groups. Who want to share next?
+  6	Student S:	I want to learn how to analyze students’ learning processes with learning analytics techniques in 
+                        order to understand data in a micro level. I collected various data in previous research projects, 
+			but I don’t know how to analyze them from a process perspective. So I want to learn specific methods
+			through this course.
+  7	Instructor:	Eh, I also put an emphasis on the process-oriented analytics and we can discuss it together. Who is 
+                        the next?
+  8	Student Z:	Let me share it. This is my first semester of postgraduate study. I want to learn more about the data
+                        mining and analysis methods, which can help me prepare for future research.
+  9	Instructor:	Okay, thanks for Z’s sharing. I hope you can learn what you want to learn. Data mining is also an area
+                        closely related to learning analytics. For example, text mining is a classic method. I hope this lesson
+			will inspire you in some way. J, you are the next.
+ 10	Student J:	You did not mention statistical analysis just now. I especially want to learn statistical analysis in 
+                        this course to deepen the understanding and application of data analysis. Can you add an item related 
+			to statistical analysis?
+ 11	Instructor:	Thanks for J’s sharing. Statistical analysis is also one of the traditional analysis techniques. I also
+                        used some basic statistical analysis such as ANOVA in my previous research. It can also be conducted
+			in R programming. We sure can add this part to the course content. Now everyone can look at the 
+			document. According to your sharing, we will learn basic approaches as I mentioned, and we will add 
+			statistical analysis, data mining, process-oriented analysis, etc. Okay? Then, I will leave you some 
+			time to think about and adjust the general content.
+		                               [Episode 6: Audio transcript 00:11:20 - 00:15:05 (09102019, Week 1, Course III)]
     
 
 Episode 7: The superficial-level collaboration of project-based research and practice (PRP):
 
   1	Instructor:	Anyone wanna share your research projects to us? X?
-  2	Student X: 
-	Em, I am right now designing a location-based game. * teacher asked us to identify different scenes in Hangzhou through the game so that people can use it to know more about the scenes across the city.
+  2	Student X:      Em, I am right now designing a location-based game. * teacher asked us to identify different scenes in
+                        Hangzhou through the game so that people can use it to know more about the scenes across the city.
   3	Instructor:	Sounds interesting.
-  4	Student X: 
-	But I am still at the very beginning phase. Another student in our [academic] group [under the same supervisor] are doing the same project.
-  5	Instructor:	I talked a bit with her in my previous class. Would you like to share more of your ideas to us so that we could offer some feedback?
-  6	Student X: 
-	I am not very sure about why we are doing this research. We could design this game app so that people can go to the scene and learn something through the game app. But what’s the point? How can we use it to do a research?
-  7	Instructor:	Maybe people learn some content? I guess you may need to design the app first and then apply it in practice?
-  8	Student X: 
-	Yep. It is the basic idea. But I am thinking something like Pokemon game. You can go to the scene, play the app interactively, and get some information related to the scene.
+  4	Student X:      But I am still at the very beginning phase. Another student in our [academic] group [under the same 
+                        supervisor] are doing the same project.
+  5	Instructor:	I talked a bit with her in my previous class. Would you like to share more of your ideas to us so that
+                        we could offer some feedback?
+  6	Student X:      I am not very sure about why we are doing this research. We could design this game app so that people
+                        can go to the scene and learn something through the game app. But what’s the point? How can we use it 
+			to do a research?
+  7	Instructor:	Maybe people learn some content? I guess you may need to design the app first and then apply it in 
+                        practice?
+  8	Student X:      Yep. It is the basic idea. But I am thinking something like Pokemon game. You can go to the scene, 
+                        play the app interactively, and get some information related to the scene.
   9	Instructor:	Sounds interesting. Do you have any idea how to develop this type of app? Do you have any experiences?
  10	Student X: 	Nope, I am just thinking about it. I think it is not very easy.
  11	Instructor:	H, do you have any ideas about X’s design? Have you read some articles about this?
  12	Student H: 	Nope, interactive app sounds interesting to me, but it is difficult to develop.
- 13	Instructor:	I believe interactive app is a great idea. But I am not sure you could do it by yourself. It usually needs a big project team to develop this type of app.
+ 13	Instructor:	I believe interactive app is a great idea. But I am not sure you could do it by yourself. It usually
+                        needs a big project team to develop this type of app.
  14	Student X:	En, I am just thinking about it.
-		[Episode 7: Audio transcript 01: 25: 20 - 01: 27: 46 (04092019, Week 6, Course I)]
+		                            [Episode 7: Audio transcript 01: 25: 20 - 01: 27: 46 (04092019, Week 6, Course I)]
     
 
 Episode 8: The medium-level collaboration of project-based research and practice (PRP):
 
-  1	Student S:	I have done a research, which I have no confidence to continue it. It is about pair programming. I assigned students into different groups according to their learning styles.
+  1	Student S:	I have done a research, which I have no confidence to continue it. It is about pair programming. I 
+                        assigned students into different groups according to their learning styles.
   2	Instructor:	What is learning style?
   3	Student S:	Eh, there is a standard for learning style, like visual learning, auditory learning, etc.
   4	Instructor:	You tested their learning styles first, right?
-  5	Student S:	Yes, then I grouped them into pairs. One type [of pairs] is homogeneous, the other is heterogeneous. I found a problem later. Although they were assigned to pairs in terms of the learning style points, some pairs are completely unfamiliar with each other. Because of the relationship issue, their collaboration did not go very well.
-  6	Instructor:	Yes, this is consistent with the complexity theory we just talked about. There are many influencing factors.
-  7	Student S:	I am thinking about how to explain the data. I have video recording and screen recording data. But I don’t know how to analyze them, and how to explain the results.
-  8	Instructor:	Speaking of learning style. I doubt the learning style test. Does people really have fixed learning styles? The learning style is likely to change in different situations. Taking myself as an example, I like reading and writing when I learn theories, and I prefer to watch videos when I learn specific techniques. How do you test my learning styles? I even can’t define it by myself.
-  9	Student S:	Learning style is a definition from the psychology perspective. I feel this research is limited to the [learning style] framework. 
+  5	Student S:	Yes, then I grouped them into pairs. One type [of pairs] is homogeneous, the other is heterogeneous. 
+                        I found a problem later. Although they were assigned to pairs in terms of the learning style points, 
+			some pairs are completely unfamiliar with each other. Because of the relationship issue, their 
+			collaboration did not go very well.
+  6	Instructor:	Yes, this is consistent with the complexity theory we just talked about. There are many influencing 
+                        factors.
+  7	Student S:	I am thinking about how to explain the data. I have video recording and screen recording data. But I 
+                        don’t know how to analyze them, and how to explain the results.
+  8	Instructor:	Speaking of learning style. I doubt the learning style test. Does people really have fixed learning 
+                        styles? The learning style is likely to change in different situations. Taking myself as an example, 
+			I like reading and writing when I learn theories, and I prefer to watch videos when I learn specific 
+			techniques. How do you test my learning styles? I even can’t define it by myself.
+  9	Student S:	Learning style is a definition from the psychology perspective. I feel this research is limited to 
+                        the [learning style] framework. 
  10	Instructor:	Oh, got it, how many groups do you have?
  11	Student S:	18 students.
- 12	Instructor:	That’s nine groups, they are paired, right? The sample size is still relatively small. You may write it in an exploratory way or focus on the learning process.
- 13	Student S:	I also think the size for pre- and post-test may not be enough. I am thinking about analysis of video and screen recording data.
- 14	Instructor:	Yes, it can be exploratory. Pair programming is certainly a good strategy. But I doubt learning style. Does it really have influences on programming? Is it possible that it has no influence on their programming?
+ 12	Instructor:	That’s nine groups, they are paired, right? The sample size is still relatively small. You may write 
+                        it in an exploratory way or focus on the learning process.
+ 13	Student S:	I also think the size for pre- and post-test may not be enough. I am thinking about analysis of video
+                        and screen recording data.
+ 14	Instructor:	Yes, it can be exploratory. Pair programming is certainly a good strategy. But I doubt learning style.
+                        Does it really have influences on programming? Is it possible that it has no influence on their 
+			programming?
  15	Student S:	Eh, I feel there are too many influencing factors for programming quality.
- 16	Instructor:	En, it is exactly like this. There are many influencing factors in the process of instruction and learning. For example, there will be differences of learning, with the same syllabus content and materials, if they are taught by different teachers. You can consider analyzing it from a process-oriented perspective, because you also have process data. The complexity theory can also be considered. Later, I can send you guys some more articles. Do you have anything to add, Y?
- 17	Student Y:	Many people still use learning styles in their research. And some other advisors (in our program) also critiqued the use of learning styles in educational research. It seems that it is already outdated.
- 18	Student S:	Eh, teacher, I am thinking about analyzing the clickstream data from screen recordings. And I also have video data.
- 19	Instructor:	Sounds good. You may consider analyzing your data under a collaborative learning framework, since they were programming in pairs. Let me know if you have any questions, we could work together if you consider using collaborative learning as a theory to support your analysis. Just let me know, okay?
-		[Episode 8: Audio transcript 01: 02: 20 - 01: 16: 01 (05072019, Week 2, Course II)]
+ 16	Instructor:	En, it is exactly like this. There are many influencing factors in the process of instruction and 
+                        learning. For example, there will be differences of learning, with the same syllabus content and 
+			materials, if they are taught by different teachers. You can consider analyzing it from a process-
+			oriented perspective, because you also have process data. The complexity theory can also be considered.
+			Later, I can send you guys some more articles. Do you have anything to add, Y?
+ 17	Student Y:	Many people still use learning styles in their research. And some other advisors (in our program) also
+                        critiqued the use of learning styles in educational research. It seems that it is already outdated.
+ 18	Student S:	Eh, teacher, I am thinking about analyzing the clickstream data from screen recordings. And I also 
+                        have video data.
+ 19	Instructor:	Sounds good. You may consider analyzing your data under a collaborative learning framework, since they 
+                        were programming in pairs. Let me know if you have any questions, we could work together if you 
+			consider using collaborative learning as a theory to support your analysis. Just let me know, okay?
+		                            [Episode 8: Audio transcript 01: 02: 20 - 01: 16: 01 (05072019, Week 2, Course II)]
     
 
 Episode 9: The high-level collaboration of project-based research and practice (PRP):
 
   1	Student L: 	Teacher, I would like to share a research I want to do. It is about dynamic grouping.
   2	Instructor:	En.
-  3	Student L:	I want to collect information from students, such as gender, learning style, interaction style, etc., and then group students by algorithms.
+  3	Student L:	I want to collect information from students, such as gender, learning style, interaction style, etc., 
+                        and then group students by algorithms.
   4	Instructor:	Do you want to collect student data through survey or questionnaire?
-  5	Student L:	Some data can be collected through questionnaires. In addition, the students’ interactions in class can be used to identify their interactive styles.
+  5	Student L:	Some data can be collected through questionnaires. In addition, the students’ interactions in class 
+                        can be used to identify their interactive styles.
   6	Instructor:	How to define [interactive styles]?
-  7	Student L:	For example, [I can] collect students’ interaction information in the first half of a course, and then classifies the students in a certain way, such as the degree of interaction. Then I can group students in the second half of the course according to the interaction information. I can make it heterogeneous within the group and homogeneous between the groups.
+  7	Student L:	For example, [I can] collect students’ interaction information in the first half of a course, and then
+                        classifies the students in a certain way, such as the degree of interaction. Then I can group students
+			in the second half of the course according to the interaction information. I can make it heterogeneous 
+			within the group and homogeneous between the groups.
   8	Instructor:	Wait a minute. What does the dynamics mean? How to realize it?
   9	Student J:	I think dynamics is very difficult to realize.
  10	Student L:	Dynamics is determined according to the dynamic changes of student interaction, I think.
  11	Instructor:	This implementation is still difficult, right?
- 12	Student L:	En, I will need to consider the dynamics. But I read an article from Computers & Education. They did the grouping algorithms of intra-group heterogeneity and inter-group homogeneity.
- 13	Student J:	Teacher * also mentioned the dynamic grouping before. But in fact it is very difficult to define what is dynamics and how to realize it.
+ 12	Student L:	En, I will need to consider the dynamics. But I read an article from Computers & Education. They did 
+                        the grouping algorithms of intra-group heterogeneity and inter-group homogeneity.
+ 13	Student J:	Teacher * also mentioned the dynamic grouping before. But in fact it is very difficult to define what 
+                        is dynamics and how to realize it.
  14	Student L:	I have read some relevant articles, and I think the algorithms can be further optimized.
  15	Instructor:	Do you want to conduct the research in my MOOC? This course may start next month, that is, November.
  16	Student L:	En, that may still be a bit of rush.
- 17	Instructor:	In addition to algorithms, you also need to think about what characteristics you will collect from students. There are many student characteristics. You don’t have to use all of them, do you? Or should we start with research questions and consider what characteristics we want to use?
- 18	Student L:	Yes, there are more than a dozen of characteristics which have been used. I shared them in the group meeting before. Teacher, I want to do research about grouping, particularly grouping algorithms.
- 19	Instructor:	Sure, it is a good topic. You can read empirical research first, then reproduce their research. And you also need to consider research contexts. 
+ 17	Instructor:	In addition to algorithms, you also need to think about what characteristics you will collect from 
+                        students. There are many student characteristics. You don’t have to use all of them, do you? Or should 
+			we start with research questions and consider what characteristics we want to use?
+ 18	Student L:	Yes, there are more than a dozen of characteristics which have been used. I shared them in the group 
+                        meeting before. Teacher, I want to do research about grouping, particularly grouping algorithms.
+ 19	Instructor:	Sure, it is a good topic. You can read empirical research first, then reproduce their research. And you
+                        also need to consider research contexts. 
  20	Student L:	I may have a try in your MOOC.
- 21	Instructor:	Eh, you need to write a research proposal first. This step of research design is very important. [You need to] consider all possible situations, and then implement it accordingly. Don’t change the plan casually.
+ 21	Instructor:	Eh, you need to write a research proposal first. This step of research design is very important. 
+                        [You need to] consider all possible situations, and then implement it accordingly. Don’t change the 
+			plan casually.
  22	Student L:	Okay, let me read the article first and reproduce the algorithm.
- 23	Instructor:	Great. We can talk later about the project and work on it together. Other students can join us if you are interested in.
-		[Episode 9: Audio transcript 02:55:02 - 03:15:02 (10222019, Week 7, Course III)]
+ 23	Instructor:	Great. We can talk later about the project and work on it together. Other students can join us if you 
+                        are interested in.
+		                              [Episode 9: Audio transcript 02:55:02 - 03:15:02 (10222019, Week 7, Course III)]
 
